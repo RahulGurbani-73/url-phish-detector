@@ -48,7 +48,7 @@ url-phish-detector/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/<your-username>/url-phish-detector.git
+git clone https://github.com/rahulgurbani-73/url-phish-detector.git
 cd url-phish-detector
 ```
 
